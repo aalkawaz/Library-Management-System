@@ -1,4 +1,5 @@
-A simple command-line Library Management System built in Java. Supports adding, storing, searching, and removing books using HashMaps and ArrayLists. Includes object-oriented design with Book, Books, and Library classes, along with flexible search by title or serial number.
+A simple command-line Library Management System built in Java. Can add, store, search, and remove books using HashMaps and ArrayLists. Includes object-oriented design with Book, Books, and Library classes, as well as a flexible search by title or serial number.
+
 Features: Add new books with a title, author, and serial number Store and organize books using HashMap and ArrayList Search for books by title or serial number Remove books by title (removes all copies)
 
 Technical Highlights: 
